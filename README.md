@@ -1,7 +1,7 @@
 # **Bike Sharing (Capital Bikeshare)**
 
-Capstone Project Module 3: Capital Bikesharing Prediction
-Nama: Aji Dwi Septian
+-Capstone Project Module 3: Capital Bikesharing Prediction
+-Nama: Aji Dwi Septian
 
 [Sumber data Bike Sharing](https://capitalbikeshare.com/system-data) 
 
@@ -49,5 +49,5 @@ Dari hasil pemodelan yang telah dilakukan, dapat disimpulkan bahwa fitur yang pa
 2. Penambahan fitur baru seperti fitur "Hour" yang merupakan fitur paling berpengaruh terhadap "Count". Selain itu, penambahan fitur baru seperti lokasi station dan faktor-faktor lain yang mempengaruhi keputusan orang untuk menyewa sepeda dapat meningkatkan akurasi prediksi.
 3. Selain itu, model yang telah dibangun dapat digunakan untuk pengembangan lain, seperti pembuatan model untuk memprediksi harga rental atau jumlah sepeda yang masuk atau keluar dari stasiun tertentu. Analisis lokasi stasiun strategis dapat membantu dalam membuat pertimbangan untuk membuka stasiun baru di lokasi serupa.
 
-
+Link drive: https://drive.google.com/drive/folders/1v69Cbid5E-xQp4lW-ck5UibNs94YCKWq?usp=sharing
 
