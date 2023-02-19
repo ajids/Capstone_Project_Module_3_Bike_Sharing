@@ -1,7 +1,7 @@
 # **Bike Sharing (Capital Bikeshare)**
 
-## Capstone Project Module 3: Capital Bikesharing Prediction
-## Nama: Aji Dwi Septian
+### Capstone Project Module 3: Capital Bikesharing Prediction
+### Nama: Aji Dwi Septian
 
 [Sumber data Bike Sharing](https://capitalbikeshare.com/system-data) 
 
